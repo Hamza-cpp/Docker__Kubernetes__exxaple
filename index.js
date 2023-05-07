@@ -5,7 +5,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Hello Docker World');
+    res.send('Hello Kubernetes World');
 });
 
 app.listen(3000, () => {
