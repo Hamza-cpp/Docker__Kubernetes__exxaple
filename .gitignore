@@ -1,2 +1,4 @@
 //ignore the node_module
 node_modules
+
+.vscode
